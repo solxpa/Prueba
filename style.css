@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+#principal{
+    
+    height: 100vh;
+    width: 100%;
+    display: flex-center;
+    font-family: 'Lobster', cursive;
+    background-color: #8A77AE;
+}
+
+
+
+#donar{
+    height: 100vh;
+    background-image: url(https://a-static.besthdwallpaper.com/plantas-de-arroz-papel-pintado-1920x1080-9529_48.jpg);
+    
+}
+
+
+
+#planta{
+    
+    height: 100vh;
+    width: 40%;
+    display: flex;
+   flex-direction: row;
+    
+    
+}
+
